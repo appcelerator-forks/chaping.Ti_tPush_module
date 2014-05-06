@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1
+apiversion: 2
+description: My module
+author: hcp
+license: Specify your license
+copyright: hcp
+
+
+# these should not be edited
+name: tpush
+moduleid: com.yeshcp.tpush
+guid: 1bf871e9-5706-4193-aaaf-310b13484f4b
+platform: android
+minsdk: 3.1.3.GA
